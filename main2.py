@@ -4,7 +4,7 @@ print("")
 print("1 - Soma")
 print("2 - Subtração")
 print("3 - Multiplicação")
-print("4 -")
+print("4 - Divisão")
 print("")
 
 tipo_conta = input("Digite a opção desejável de cálculo: ")
